@@ -21,7 +21,8 @@
 
 ## 4.工具类
 
-序 号 | 名 称          | 网址                          | 描 述
-:-: | ------------ | :-------------------------- | --------------------------------------------
-1   | Atom         | https://atom.io/            | 新一代文本编辑器，近似Sublime Text[插件](atom/plugins.md)
-1   | Sublime Text | http://www.sublimetext.com/ | 广泛好用文本编辑器，近似Atom
+序 号 | 名 称             | 网址                             | 描 述
+:-: | --------------- | :----------------------------- | ---------------------------------------------------------
+1   | Atom            | https://atom.io/               | 新一代文本编辑器，近似Sublime Text  还有一些个人认为好用的[插件](atom/plugins.md)
+2   | Sublime Text    | http://www.sublimetext.com/    | 广泛好用文本编辑器，近似Atom
+3   | androiddevtools | http://www.androiddevtools.cn/ | Android开发工具集锦
