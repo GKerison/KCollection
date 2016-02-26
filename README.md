@@ -28,6 +28,7 @@
 1   | Atom            | https://atom.io/               | 新一代文本编辑器，近似Sublime Text  还有一些个人认为好用的[插件](atom/plugins.md)
 2   | Sublime Text    | http://www.sublimetext.com/    | 广泛好用文本编辑器，近似Atom
 3   | androiddevtools | http://www.androiddevtools.cn/ | Android开发工具集锦
+4   | methodscount    | http://www.methodscount.com/   | 一个统计常用依赖包方法数，引用情况
 
 ## 5.插件类
 
